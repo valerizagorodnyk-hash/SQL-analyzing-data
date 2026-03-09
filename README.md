@@ -1,4 +1,4 @@
-# SQL-Advanced-Module-Task
+# SQL analyzing data
 This project focuses on collecting and analyzing data to track account creation dynamics and email engagement metrics (sends, opens, and clicks). It evaluates user behavior across key categories, including messaging intervals, account verification status, and subscription lifecycles.
 -- CTE по повідомленнях
 WITH email_metrics AS (
